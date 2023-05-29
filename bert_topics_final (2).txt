@@ -1,0 +1,30 @@
+Topic: -1
+Words: say, make, year, life, trump, day, president, world, live, family
+
+Topic: 0 Everyday life
+Words: say, make, year, day, president, life, thing, work, sleep, help
+
+Topic: 1 Politics
+Words: obamacare, repeal, medicaid, shutdown, aca, republicans, resign, medicare, senate, reform
+
+Topic: 2 Global health issues
+Words: coronavirus, hiv, zika, outbreak, covid, vaccination, ebola, pandemic, infect, meningitis
+
+Topic: 3 Health and Dietary Choices
+Words: obesity, gluten, nutrition, vegan, diet, diabetes, obese, healthy, celiac, gmo
+
+Topic: 4 Socioeconomic Challenges and Advocacy
+Words: disability, homelessness, homeless, poverty, struggle, advocate, elderly, accessibility, shelter, single
+
+Topic: 5 Menopause and Women's Health
+Words: menopause, hormone, estrogen, woman, menopausal, hysterectomy, postmenopausal, testosterone, ovarian, exercise
+
+Topic: 6 Introversion, Extroversion, and Personality Traits
+Words: introvert, narcissism, narcissist, extrovert, narcissistic, introversion, impostor, family, extroversion, shyness
+
+Topic: 7 Maria Rodale's Literary Works and Farming
+Words: mariasfarmcountrykitchen, maria, maya, novel, author, adventure, milkweed, pagans, nonfiction, brindisi
+
+Topic: 8 General or Undefined Topic
+Words: ready, jealous, shiny, confirm, able, probably, line, close, set, let
+
