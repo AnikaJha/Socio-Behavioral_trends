@@ -10,4 +10,4 @@ learning models, including BERTopic and LDA, in the analysis and prediction of s
 
 Keywords: 
 Machine learning models, Socio-behavioural trend, Consumer behaviour, Business applications, Predictive analysis, Trend identification, Latent Dirichlet Allocation, BERT Topic Modelling
-![image](https://github.com/AnikaJha/Socio-Behavioral_trends/assets/64139165/bdf2977b-00f8-4d57-ae4d-bdda0c79c708)
+
